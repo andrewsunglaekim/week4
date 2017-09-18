@@ -51,7 +51,8 @@ Fender
 getGuitarColor():
 java.awt.Color[r=255,g=0,b=255]
 playGuitar():
-E(0.25), D(4.0), B(0.5), B(2.0), F(4.0), E(0.5), F(4.0), F(1.0), A(0.5), G(0.25), E(2.0), B(2.0), D(0.25), F(2.0), D(1.0), F(2.0)
+E(0.25), D(4.0), B(0.5), B(2.0), F(4.0), E(0.5), F(4.0), F(1.0), A(0.5),
+G(0.25), E(2.0), B(2.0), D(0.25), F(2.0), D(1.0), F(2.0)
 ```
 ### Screenshot
 ![compilation](images/testCase1.png)
@@ -108,7 +109,8 @@ Gibson
 getGuitarColor():
 java.awt.Color[r=0,g=0,b=255]
 playGuitar():
-F(0.5), B(4.0), D(4.0), F(1.0), F(4.0), B(1.0), D(1.0), F(4.0), G(0.25), B(0.5), A(0.25), B(0.5), C(4.0), G(0.5), D(1.0), D(2.0)
+F(0.5), B(4.0), D(4.0), F(1.0), F(4.0), B(1.0), D(1.0), F(4.0), G(0.25),
+B(0.5), A(0.25), B(0.5), C(4.0), G(0.5), D(1.0), D(2.0)
 ```
 
 ### Screenshot
@@ -156,14 +158,15 @@ Guitar Color: java.awt.Color[r=255,g=0,b=0]
 
 getNumStrings():
 6
-getGuitarLength(): 
+getGuitarLength():
 28.2
 getGuitarManufacturer():
 Gibson
 getGuitarColor():
 java.awt.Color[r=255,g=0,b=0]
 playGuitar():
-G(4.0), B(0.25), B(1.0), F(0.5), A(0.25), E(0.25), B(2.0), D(0.5), C(0.5), F(0.25), C(1.0), F(2.0), D(2.0), B(1.0), B(0.5), E(2.0)
+G(4.0), B(0.25), B(1.0), F(0.5), A(0.25), E(0.25), B(2.0), D(0.5), C(0.5),
+F(0.25), C(1.0), F(2.0), D(2.0), B(1.0), B(0.5), E(2.0)
 ```
 
 ### Screenshot
